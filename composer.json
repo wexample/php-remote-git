@@ -1,7 +1,7 @@
 {
   "name": "wexample/php-remote-git",
   "description": "The repositories a git host holds and the commits of each day, from GitHub and GitLab, as php-api clients",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "library",
   "license": "MIT",
   "authors": [
