@@ -1,0 +1,7 @@
+domain: php-remote-git.wex
+global:
+  name: php-remote-git
+  type: php-package
+  version: 1.0.0
+wex:
+  version: 6.0.175
